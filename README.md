@@ -1,190 +1,227 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a3d62,100:00d2ff&height=200&section=header&text=Hi%2C%20I%20am%20Suresh%20Jangid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20IIT%20Jodhpur&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a192f,80:0d3b6e,100:1a7fd4&height=220&section=header&text=Suresh%20Jangid&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=turning%20raw%20data%20into%20real%20intelligence&descSize=18&descAlignY=65&descColor=7dd3fc"/>
+
+<br/>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/suresh-jangid-b06a47280">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:developer.suresh5633t@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Sureshjangid99">
-  <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Sureshjangid99&style=for-the-badge&color=00d2ff&label=VIEWS"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+%40+IIT+Jodhpur+%F0%9F%8E%93;ML+Engineer+%7C+CGPA+8.7+%2F+10;Meta+%C3%97+PyTorch+Hackathon+Fighter+%F0%9F%8F%86;Building+AI+that+actually+ships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<br/><br/>
+<br/>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  B.S. AI & Data Science · IIT Jodhpur · CGPA 8.7            ║
-║  ML Intern · Hackathon Fighter · Open Source Builder        ║
-╚══════════════════════════════════════════════════════════════╝
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suresh-jangid-b06a47280)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.suresh5633t@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sureshjangid99)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sureshjangid99&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS)](https://github.com/Sureshjangid99)
 
 </div>
 
+<br/>
+
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+<div align="center">
 
-## ⚡ What I Build
+## 〈 WHO AM I 〉
+
+</div>
 
 ```python
-suresh = {
-    "🎓": "IIT Jodhpur — AI & Data Science (CGPA 8.7)",
-    "🤖": "ML pipelines · NLP systems · Financial AI",
-    "🏆": "Meta × PyTorch × Scalar Hackathon Participant",
-    "📈": "Built SwingPro AI — real-time trading for 500+ NSE/BSE stocks",
-    "💳": "Creditwise — 91% accuracy loan prediction system",
-    "🌱": "Currently deep-diving → Transformers · RL · LLM Fine-tuning",
-    "🎯": "Open to → Research Internships · Collaborations · Builds",
-}
+class SureshJangid:
+
+    school     = "IIT Jodhpur · B.S. Artificial Intelligence & Data Science"
+    cgpa       = 8.7
+    location   = "Kolhapur → Jodhpur 🇮🇳"
+    role       = "ML Engineer · Financial AI Builder · Open Source Dev"
+
+    currently  = {
+        "🔨 building"  : "TradeIQ Pro — AI-powered trading assistant",
+        "📖 learning"  : "Transformers · LLM Fine-tuning · RL at scale",
+        "🏆 recent"    : "Meta × PyTorch × Scalar School Hackathon",
+        "🎯 seeking"   : "Research Internships · Collabs · Real problems",
+    }
+
+    highlight  = "Built a live AI for 500+ NSE/BSE stocks in first year of college"
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+<br/>
 
 ---
 
-## 🛠️ Arsenal
-
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,js,react,html,css,git,github,linux,mysql,vscode,jupyter&theme=dark)](https://skillicons.dev)
+## 〈 TECH ARSENAL 〉
+
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,openai,js,react,html,css,git,github,linux,mysql,vscode&theme=dark&perline=7)](https://skillicons.dev)
+
+<br/>
+
+| Domain | Stack |
+|:--|:--|
+| **ML / Deep Learning** | PyTorch · TensorFlow · Scikit-learn · XGBoost |
+| **NLP & LLMs** | Transformers · spaCy · NLTK · OpenAI API |
+| **Data & Analysis** | Pandas · NumPy · Matplotlib · Jupyter · MySQL |
+| **Web & APIs** | React · HTML/CSS · JavaScript · REST APIs |
+| **Tools** | Git · Linux CLI · VS Code · Google Colab |
 
 </div>
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-★★★★★-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-★★★★☆-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-★★★★☆-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-★★★★☆-00BFFF?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-★★★★★-189ACC?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-★★★★☆-412991?style=flat-square&logo=openai&logoColor=white)
-
-</div>
+<br/>
 
 ---
 
-## 🚀 Flagship Projects
+<div align="center">
 
-<table>
+## 〈 PROJECTS THAT SHIPPED 〉
+
+</div>
+
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+<div align="center">
 
 ### 📈 SwingPro AI
-> Real-time NSE/BSE swing trading intelligence for **500+ stocks**
+**Real-time NSE/BSE trading intelligence**
 
-- Live price feeds + GPT news sentiment
-- RSI · MACD · Buy/Sell signal engine
-- Financial AI · NLP · Python
+</div>
 
-[![Repo](https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github)](https://github.com/Sureshjangid99/-SwingPro-AI-Personal-NSE-BSE-Swing-Trading-Intelligence)
+> Built a live AI trading assistant scanning **500+ stocks** — fuses live price feeds with GPT-powered news sentiment. Generates buy/sell signals with clear rationale using RSI + MACD.
+
+`Python` `Financial APIs` `NLP` `GPT` `HTML`
+
+[![](https://img.shields.io/badge/→_View_on_GitHub-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/Sureshjangid99/-SwingPro-AI-Personal-NSE-BSE-Swing-Trading-Intelligence)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+<div align="center">
 
 ### 💳 Creditwise Loan System
-> XGBoost classifier with **91% accuracy** on loan approval
+**91% accurate loan approval engine**
 
-- 10+ financial & demographic features
-- Cross-validation · 18% variance reduction
-- Scikit-learn · XGBoost · Python
+</div>
 
-[![Repo](https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github)](https://github.com/Sureshjangid99/Creditwise_Loan_System-ML-Model-)
+> XGBoost + Logistic Regression trained on **10+ financial features**. Cross-validation cut variance by 18%. Supports fair financial decisions at scale.
+
+`Python` `XGBoost` `Scikit-learn` `Jupyter`
+
+[![](https://img.shields.io/badge/→_View_on_GitHub-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/Sureshjangid99/Creditwise_Loan_System-ML-Model-)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏆 Meta × PyTorch OpenEnv Hackathon
-> Deep RL agents across **5 OpenAI Gym environments**
+<div align="center">
 
-- PPO convergence within 500 episodes
-- Meta AI backed competition
-- PyTorch · RL · OpenAI Gym
+### 🏆 Meta × PyTorch OpenEnv
+**Hackathon · Backed by Meta AI**
 
-[![Repo](https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github)](https://github.com/Sureshjangid99/Meta_PyTorch_OpenEnv-Hackathon-x-Scalar-School)
+</div>
+
+> Implemented deep RL agents across **5 OpenAI Gym environments** using PPO. Consistent policy convergence in under 500 training episodes.
+
+`PyTorch` `Reinforcement Learning` `OpenAI Gym`
+
+[![](https://img.shields.io/badge/→_View_on_GitHub-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/Sureshjangid99/Meta_PyTorch_OpenEnv-Hackathon-x-Scalar-School)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+<div align="center">
 
 ### 🤖 NLP Support Chatbot
-> GPT + Dialogflow chatbot with **~85% intent accuracy**
+**ML Engineering Intern · Future Interns**
 
-- Served at Future Interns internship
-- Reduced support load significantly
-- OpenAI API · Dialogflow · Python
+</div>
 
-[![WIP](https://img.shields.io/badge/Internship_Project-00d2ff?style=for-the-badge)]()
+> GPT + Dialogflow chatbot hitting **~85% intent recognition accuracy**. Deployed as part of a sales forecasting system that cut manual reporting by **40%**.
+
+`OpenAI API` `Dialogflow` `Python` `NLP`
+
+[![](https://img.shields.io/badge/Internship_Project-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8)]()
 
 </td>
 </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sureshjangid99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sureshjangid99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=ffffff"/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sureshjangid99&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d2ff&ring=00d2ff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888"/>
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sureshjangid99&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<br/>
 
 ---
 
-## 🏅 Trophies
-
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Sureshjangid99&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+## 〈 GITHUB STATS 〉
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sureshjangid99&theme=2077" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sureshjangid99&theme=2077" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sureshjangid99&theme=2077" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sureshjangid99&theme=2077" width="32%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sureshjangid99&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=fb923c&currStreakLabel=ffffff&sideLabels=94a3b8&dates=64748b" width="60%"/>
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sureshjangid99&bg_color=0d1117&color=38bdf8&line=38bdf8&point=fb923c&area=true&area_color=1e3a5f&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
+<br/>
+
 ---
 
-## 🐍 Contribution Snake
+<div align="center">
+
+## 〈 TROPHIES 〉
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Sureshjangid99&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+---
 
 <div align="center">
+
+## 〈 CONTRIBUTION SNAKE 〉
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sureshjangid99/Sureshjangid99/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sureshjangid99/Sureshjangid99/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sureshjangid99/Sureshjangid99/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Sureshjangid99/Sureshjangid99/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
+<br/>
+
 ---
 
-## 💬 Quote of the Day
-
 <div align="center">
+
+## 〈 THOUGHT OF THE DAY 〉
 
 [![Quote](https://quotes-github-profile.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
----
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:0a3d62,100:0d0d0d&height=120&section=footer" width="100%"/>
+---
 
 <div align="center">
 
-**⭐ Star my repos if they help you — it means a lot! ⭐**
+**if you found something useful → drop a ⭐ — it genuinely keeps me building**
 
-*Built with 💙 from India*
+*First year. Real projects. No excuses.* 🚀
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a7fd4,40:0d3b6e,80:0a192f,100:0d1117&height=140&section=footer"/>
