@@ -180,13 +180,6 @@ class SureshJangid:
 
 
 
-## 〈 THOUGHT OF THE DAY 〉
-
-[![Quote](https://quotes-github-profile.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
-<br/>
 
 ---
 
