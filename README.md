@@ -178,33 +178,7 @@ class SureshJangid:
 
 <div align="center">
 
-## 〈 TROPHIES 〉
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Sureshjangid99&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 〈 CONTRIBUTION SNAKE 〉
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sureshjangid99/Sureshjangid99/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sureshjangid99/Sureshjangid99/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Sureshjangid99/Sureshjangid99/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
 
 ## 〈 THOUGHT OF THE DAY 〉
 
