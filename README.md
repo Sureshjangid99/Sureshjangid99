@@ -30,7 +30,7 @@ class SureshJangid:
 
     school     = "IIT Jodhpur · B.S. Artificial Intelligence & Data Science"
     cgpa       = 8.7
-    location   = "Kolhapur → Jodhpur 🇮🇳"
+    location   = "Jodhpur 🇮🇳"
     role       = "ML Engineer · Financial AI Builder · Open Source Dev"
 
     currently  = {
@@ -132,7 +132,7 @@ class SureshJangid:
 <div align="center">
 
 ### 🤖 NLP Support Chatbot
-**ML Engineering Intern · Future Interns**
+**ML Engineering Intern**
 
 </div>
 
